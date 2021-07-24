@@ -6,11 +6,11 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-<em>I am a 4th Year undergraduate student from <a href="https://www.galgotiasuniversity.edu.in/"><b>Galgotias University, Greater Noida </b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+
  <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/viveksingh3899) 
-[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/vivek38singh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krifafiras) 
+[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/firaskrifa)
 
 
 
