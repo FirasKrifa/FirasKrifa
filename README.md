@@ -9,8 +9,8 @@
 
  <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krifafiras) 
-[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/firaskrifa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KrifaFiras?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
+[![GitHub Follow](https://img.shields.io/github/followers/FirasKrifa?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/FirasKrifa)
 
 
 
