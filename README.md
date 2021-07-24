@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 [![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/vivek38singh)
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
+[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/FirasKrifa)
 
 
 First and foremost, I love to write code. I am obsessed with the idea of 
