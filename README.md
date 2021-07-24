@@ -20,7 +20,7 @@ Whether you have a question or just want to say hi, I'll try my best to get back
 
 <samp>and here's a graph for people who like graphs: 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?notsoocool&theme=github)
 
 
 <!---
