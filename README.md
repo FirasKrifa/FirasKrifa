@@ -50,19 +50,17 @@ Aside slapping my keyboard till something magical emerge, i write articles  and 
 - 🌟 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=vivmost&theme=react-dark&area=true)
-
-
 <br />
 <hr/>
 <p align="center">
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FirasKrifa&show_icons=true&hide_border=true&theme=algolia" />
  </p>
 <br />
+
+
+![](https://activity-graph.herokuapp.com/graph?username=FirasKrifa&theme=react-dark&area=true)
+
+
 
 
 
