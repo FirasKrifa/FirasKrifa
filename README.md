@@ -3,12 +3,12 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> <br/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/KrifaFiras?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
 
 
 
- <br/>
 
 
 
