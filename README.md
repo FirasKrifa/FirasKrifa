@@ -7,7 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/KrifaFiras?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
 
-## I'm a Programmer, Developer, and Orator!
+## I'm a Programmer, Developer !
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> <br/>
 
  - 🔭<b> I’m currently working on Capstone Project </b>
