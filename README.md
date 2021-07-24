@@ -2,8 +2,7 @@
 <h4><samp> Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web & Mobile development and other tech projects....</h4></samp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
-[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/FirasKrifa)
-
+[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/vivek38singh)
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
