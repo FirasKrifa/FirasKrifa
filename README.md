@@ -18,9 +18,13 @@ re
 Whether you have a question or just want to say hi, I'll try my best to get back to you!
  firaskrifa02@gmail.com
 
+<samp>and here's a graph for people who like graphs: 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=notsoocool&theme=github)
 
 
 <!---
 FirasKrifa/FirasKrifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
