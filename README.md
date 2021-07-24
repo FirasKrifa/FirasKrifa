@@ -7,7 +7,7 @@ I enjoy working in teams, partnering, and pair programming and I have extensive 
 Aside slapping my keyboard till something magical emerge, i write articles  and also contribute to open source.
  
  </h4></samp>
-<img src="https://github.com/blob/master/res/Firas%20Krifa.gif" width="100%">
+<img src="https://github.com/master/res/Firas%20Krifa.gif" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 
