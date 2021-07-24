@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FirasKrifa
+<h3><samp><b> Hey there! I'm Firas Krifa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></samp></h3>
+<h4><samp> Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....</h4></samp>
 
 First and foremost, I love to write code. I am obsessed with the idea of 
 using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately committed to solving. 
