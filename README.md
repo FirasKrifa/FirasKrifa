@@ -35,7 +35,17 @@
   <img align="center" alt="Vivek gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a>
 </p>
-<br/>
+
+
+<br />
+<hr/>
+<p align="center">
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vivek38singh&show_icons=true&hide_border=true&theme=algolia" />
+ </p>
+<br />
+
+
+
 
 <!---
 FirasKrifa/FirasKrifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
