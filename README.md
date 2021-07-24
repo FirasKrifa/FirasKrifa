@@ -17,9 +17,11 @@ Aside slapping my keyboard till something magical emerge, i write articles  and 
 ## I'm a Programmer, Developer !
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> <br/>
 
- - 🔭<b> I’m currently working on Capstone Project </b>
- - 🌱<b> I’m currently learnining ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) and ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) </b>
- - 🥅<b> 2020 Goals: Steps towards algorithm analysis and competitive programming </b>
+- 🔭 I like **Problem Solving and App Development (Web, Mobile)
+- 🌱 I’m working on improving Problem Solving and Product Development skills
+- 🌟 I’m looking to collaborate on anything having an impact
+- 💬 Ask me about anything and everything
+- 🥅<b>Goals: Steps towards algorithm analysis and competitive programming </b>
  - ⚡<b> Fun fact: I love to write quotes and play online game </b>
 
 ### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
@@ -45,10 +47,6 @@ Aside slapping my keyboard till something magical emerge, i write articles  and 
 
 <br/><br/>
 
-- 🔭 I like **Problem Solving and App Development (Web, Mobile)**.
-- 🌱 I’m working on improving Problem Solving and Product Development skills.
-- 🌟 I’m looking to collaborate on anything having an impact.
-- 💬 Ask me about anything and everything.
 
 <br />
 <hr/>
