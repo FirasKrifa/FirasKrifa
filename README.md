@@ -2,7 +2,7 @@
 <h4><samp> I am a Software Developer, and Content Creator with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an expert at problem-solving, technical leadership, communications, and presentations.
  
 
-I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry, in which I provide clear strategic guidance through multiple projects with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web & Mobile development and other tech projects....
+I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry in which I provide clear strategic guidance through multiple projects with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web & Mobile development and other tech projects....
 
 Aside slapping my keyboard till something magical emerge, i write articles  and also contribute to open source.
  
