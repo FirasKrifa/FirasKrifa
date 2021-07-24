@@ -1,5 +1,5 @@
 <h3><samp><b> Hey there! I'm Firas Krifa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></samp></h3>
-<h4><samp> I am a Software Developer, and Content Creator with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an expert at problem-solving, technical leadership, communications, and presentations.
+<h4><samp> I am a Software Developer with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an expert at problem-solving, technical leadership, communications, and presentations.
 
 I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry in which I provide clear strategic guidance through multiple projects with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web & Mobile development and other tech projects....
 
