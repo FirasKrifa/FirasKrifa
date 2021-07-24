@@ -1,11 +1,12 @@
 <h3><samp><b> Hey there! I'm Firas Krifa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></samp></h3>
 <h4><samp> Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web & Mobile development and other tech projects....</h4></samp>
+[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
+[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/FirasKrifa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyvyas" alt="yajush" /> </p>
 [![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/vivek38singh)
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-[![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/KrifaFiras) 
-[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/FirasKrifa)
+
 
 
 First and foremost, I love to write code. I am obsessed with the idea of 
