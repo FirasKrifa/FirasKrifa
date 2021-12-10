@@ -20,8 +20,6 @@ Aside slapping my keyboard till something magical emerge, i write articles  and 
 - 🌱 <b> I’m working on improving Problem Solving and Product Development skills </b>
 - 🌟 <b> I’m looking to collaborate on anything having an impact </b>
 - 💬 <b> Ask me about anything and everything </b>
-- 🥅 <b> Goals: Steps towards algorithm analysis and competitive programming </b>
-- ⚡ <b> Fun fact: I love to write quotes and play online game </b>
 
 ### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
